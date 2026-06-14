@@ -1,0 +1,22 @@
+Reflexión Semana 5 — APIs y comunicación comunitaria
+
+Las APIs representan una oportunidad enorme para que las comunidades puedan compartir
+información de forma organizada, rápida y accesible desde cualquier dispositivo con
+conexión a internet.
+
+Imaginemos una comunidad rural que enfrenta problemas de agua, vías deterioradas o
+situaciones de riesgo ambiental. Con una API sencilla construida en Node.js y Express,
+los habitantes podrían enviar reportes desde sus celulares, los cuales llegarían de
+forma estructurada a un sistema central donde los líderes comunitarios podrían
+visualizarlos, priorizarlos y gestionarlos.
+
+Las APIs también permiten que distintas aplicaciones se conecten entre sí. Por ejemplo,
+un sistema de alertas comunitarias podría integrarse con una aplicación de mapas para
+mostrar en tiempo real los puntos críticos del territorio, o con un canal de mensajería
+para notificar automáticamente a los vecinos ante una emergencia.
+
+Lo más valioso es que estas herramientas no requieren grandes inversiones económicas.
+Con tecnologías abiertas como Node.js, cualquier persona con conocimientos básicos de
+programación puede construir una API funcional que responda a las necesidades reales
+de su comunidad, promoviendo así la autonomía tecnológica y la participación ciudadana
+activa en la gestión del territorio.

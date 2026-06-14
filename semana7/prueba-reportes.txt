@@ -1,0 +1,31 @@
+Primero se envió una petición POST a http://localhost:3000/reportes con el JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor respondió confirmando el registro:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Luego, al hacer una petición GET a http://localhost:3000/reportes, el servidor
+devuelve el arreglo completo con todos los reportes almacenados en memoria:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Cada nuevo reporte enviado mediante POST se agrega al arreglo "reportes" y
+aparece en futuras consultas GET, mientras el servidor siga encendido.

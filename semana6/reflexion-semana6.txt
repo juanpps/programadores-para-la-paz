@@ -1,0 +1,13 @@
+Es fundamental que las plataformas tecnológicas puedan recibir reportes
+estructurados porque esto permite organizar la información de manera clara
+y procesarla automáticamente. Cuando un ciudadano envía datos en formato
+JSON, el sistema puede identificar exactamente qué tipo de información se
+está enviando, como el tipo de incidencia o su descripción. Esto facilita
+que las entidades responsables clasifiquen, prioricen y atiendan los
+reportes de forma más eficiente. Además, los datos estructurados permiten
+generar estadísticas, detectar patrones y tomar decisiones basadas en
+información real de la comunidad. Sin una estructura definida, sería muy
+difícil analizar grandes volúmenes de reportes o integrarlos con otros
+sistemas. En resumen, recibir información de manera estructurada mejora la
+comunicación entre los ciudadanos y las plataformas, y hace más rápida y
+efectiva la respuesta a las necesidades de la comunidad.

@@ -1,0 +1,28 @@
+Comando: uname -a
+Salida obtenida:
+Linux vm 6.18.5 #1 SMP PREEMPT_DYNAMIC @0 x86_64 x86_64 x86_64 GNU/Linux
+
+Este comando muestra información general sobre el sistema operativo y el
+kernel que está corriendo: el nombre del sistema (Linux), el nombre del
+host de la máquina, la versión del kernel, la fecha de compilación y la
+arquitectura del procesador (x86_64). En conjunto, permite saber qué
+versión y tipo de sistema se está utilizando.
+
+Comando: whoami
+Salida obtenida:
+root
+
+Este comando muestra el nombre del usuario que está actualmente conectado
+y ejecutando comandos en la terminal. En este caso, el usuario activo es
+"root", que corresponde al usuario administrador del sistema.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Conocer esta información es muy importante porque permite identificar
+correctamente el entorno donde se está trabajando: qué sistema operativo y
+versión de kernel se usa, qué arquitectura tiene el procesador y con qué
+permisos (usuario) se están ejecutando los comandos. Esto ayuda a evitar
+errores de compatibilidad, a instalar software adecuado para esa
+arquitectura, y a tener cuidado especial cuando se trabaja como usuario
+root, ya que tiene permisos totales sobre el sistema y cualquier comando
+mal ejecutado puede afectar gravemente al servidor.

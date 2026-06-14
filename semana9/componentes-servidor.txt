@@ -1,0 +1,24 @@
+Sistema operativo:
+Es la base sobre la cual corre todo lo demás. Administra el hardware
+(procesador, memoria, disco) y permite que Node.js y otros programas se
+ejecuten correctamente sobre la máquina.
+
+Node.js:
+Es el entorno de ejecución que permite correr código JavaScript fuera del
+navegador. Se encarga de interpretar y ejecutar el código de server.js,
+gestionando las conexiones y peticiones de manera eficiente.
+
+Aplicación server.js:
+Es el programa específico que define la lógica de la aplicación: qué
+rutas existen, cómo se procesan las solicitudes y qué respuestas se
+envían a los usuarios. Es el "cerebro" de la API.
+
+Puerto:
+Es el número que identifica el punto de acceso por donde el servidor
+recibe las peticiones (en este caso, 3000). Permite que varias
+aplicaciones funcionen en la misma máquina sin interferir entre ellas.
+
+Logs:
+Son registros de la actividad del servidor, como mensajes de inicio,
+errores o solicitudes recibidas. Sirven para monitorear el funcionamiento
+del sistema y detectar problemas rápidamente.

@@ -1,0 +1,19 @@
+Petición POST a http://localhost:3000/registro
+
+Cuerpo enviado:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta del servidor:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibe el JSON gracias a express.json(), lo procesa con req.body,
+extrae los campos "nombre" y "mensaje", y responde con un nuevo objeto JSON
+que confirma que los datos fueron recibidos correctamente, incluyendo un
+campo "estado" para indicar el resultado de la operación.

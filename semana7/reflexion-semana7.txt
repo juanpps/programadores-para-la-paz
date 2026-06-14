@@ -1,0 +1,12 @@
+Es muy importante que las comunidades puedan registrar y consultar reportes
+o incidencias en una plataforma tecnológica porque esto facilita la
+comunicación directa entre los ciudadanos y las entidades encargadas de
+resolver los problemas. Al tener un sistema centralizado, cada reporte
+queda almacenado de forma ordenada y puede ser consultado en cualquier
+momento, lo que evita que la información se pierda o se duplique. Además,
+permite que las autoridades visualicen rápidamente qué tipo de problemas
+son más frecuentes y en qué zonas, ayudando a priorizar la atención.
+Para los ciudadanos, contar con esta herramienta genera confianza, ya que
+pueden ver que sus reportes quedan registrados y son tenidos en cuenta.
+En conjunto, este tipo de sistemas fortalece la participación ciudadana y
+mejora la gestión de los recursos comunitarios.

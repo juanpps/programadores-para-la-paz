@@ -1,0 +1,9 @@
+Una plataforma tecnológica que promueve participación ciudadana necesita base de datos porque toda la información de las causas, los apoyos y los usuarios debe quedar almacenada de forma estructurada y consultable, y no depender de la memoria o de archivos sueltos que se pueden perder.
+
+La autenticación de usuarios es igual de importante porque permite saber quién está creando una causa o apoyando una iniciativa, evitando que cuentas falsas o bots manipulen los resultados y dando trazabilidad real a la participación.
+
+Sin autenticación, cualquier persona podría hacerse pasar por otra o inflar artificialmente el apoyo a una causa, lo que le quitaría credibilidad a todo el proceso comunitario.
+
+La protección de la información, por su parte, es lo que genera confianza: si los ciudadanos saben que sus datos personales no se exponen públicamente, es más probable que participen activamente.
+
+En conjunto, base de datos, autenticación y protección de datos no son solo requisitos técnicos, sino la base ética y práctica que sostiene una herramienta digital pensada para servir a una comunidad real.

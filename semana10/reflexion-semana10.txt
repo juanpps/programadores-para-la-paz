@@ -1,0 +1,5 @@
+Las metodologías ágiles ayudan a organizar un proceso de participación ciudadana porque permiten avanzar en pasos pequeños y verificables, en lugar de intentar resolver todo de una vez. Un backlog priorizado deja claro qué es urgente y qué puede esperar, lo cual es clave cuando los recursos de una comunidad son limitados. Trabajar por iteraciones permite mostrar resultados concretos rápido, generando confianza entre los participantes.
+
+La automatización con herramientas como n8n libera tiempo humano que antes se usaba en tareas repetitivas, como enviar recordatorios o clasificar reportes, y reduce el margen de error. Telegram, por su parte, es un canal accesible que la mayoría de la comunidad ya conoce y usa a diario, lo que facilita la coordinación sin necesidad de instalar herramientas nuevas.
+
+Combinar estos elementos con buenas prácticas de trazabilidad (como Git) asegura que el trabajo quede documentado y sea auditable, algo esencial en procesos de veeduría ciudadana donde la transparencia es tan importante como la eficiencia.

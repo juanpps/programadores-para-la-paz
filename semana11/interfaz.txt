@@ -1,0 +1,9 @@
+La interfaz tendría una sección para crear una nueva causa comunitaria con un formulario que incluya título, descripción y fecha.
+
+También tendría una vista de causas disponibles, mostrada como una lista o cuadrícula de tarjetas, donde cada usuario puede leer las iniciativas activas antes de decidir apoyarlas.
+
+Cada causa tendría un botón de "Apoyar" que permite a un usuario autenticado sumar su respaldo, junto con un contador de apoyos que muestre en tiempo real cuántas personas han apoyado esa causa.
+
+La navegación sería simple: una página principal con el listado de causas, un formulario de creación (solo visible para usuarios con sesión iniciada) y un login/registro básico.
+
+La interfaz debe ser clara, sencilla y accesible desde el celular, y no debe mostrar información privada de los usuarios (como su correo o documento) en las vistas públicas, solo su nombre de usuario si decide mostrarlo.

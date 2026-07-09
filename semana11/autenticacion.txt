@@ -1,0 +1,7 @@
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones dentro de la plataforma, confirmando que realmente es quien dice ser mediante credenciales como usuario y contraseña.
+
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos, paneles de administración o acciones sensibles (como eliminar una causa o ver datos de otros usuarios) que no deberían estar disponibles para cualquier persona que visite el sitio.
+
+Proteger estas rutas evita que usuarios no autorizados modifiquen o consulten información que no les corresponde, y ayuda a mantener la confianza de la comunidad en la plataforma.
+
+No se deben exponer públicamente contraseñas (ni siquiera cifradas), documentos de identidad, teléfonos, direcciones exactas, tokens de acceso, claves de API, ni ningún dato sensible de los miembros de la comunidad. Esta información debe manejarse solo en el backend, de forma cifrada y con acceso restringido.

@@ -1,0 +1,11 @@
+Tareas que haría primero:
+1. Registrar una incidencia (historia 1).
+2. Recibir alerta en Telegram por nuevo reporte (historia 2).
+
+Por qué son las más importantes:
+Sin la posibilidad de registrar un reporte, no existe información que gestionar. Y sin la alerta al coordinador, el reporte quedaría registrado pero nadie se enteraría a tiempo para actuar. Estas dos tareas forman el flujo mínimo funcional: entra un dato, alguien se entera.
+
+Definición de "terminado":
+- Funciona: se puede registrar un reporte y llega la notificación sin errores.
+- Fue probada: se hizo al menos una prueba manual simulando un caso real.
+- Quedó registrada en Git: el código y los archivos de la actividad están commiteados y en el repositorio remoto.

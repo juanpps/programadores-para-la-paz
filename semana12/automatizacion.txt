@@ -1,0 +1,14 @@
+Automatización simple - Petición en 3 Clics
+
+Evento: se registra un nuevo apoyo en una causa (o la causa alcanza un número determinado de apoyos, por ejemplo 50).
+
+Mensaje enviado: "¡Una nueva causa está tomando fuerza! La petición '[titulo de la causa]' ya alcanzó [numero] apoyos."
+
+Herramienta: n8n detecta el evento en la base de datos (nuevo registro en la tabla Apoyo) y dispara un webhook que envía el mensaje automáticamente a un canal o grupo de Telegram de la comunidad.
+
+Información que NO debe enviarse por seguridad:
+- Cédulas o documentos de identidad
+- Números de teléfono
+- Direcciones físicas
+- Nombres completos de quienes apoyan (si no han dado consentimiento explícito)
+- Comentarios sensibles o cualquier dato personal que no sea estrictamente necesario para el mensaje

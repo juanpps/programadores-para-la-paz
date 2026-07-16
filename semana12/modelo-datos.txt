@@ -1,0 +1,19 @@
+Modelo de datos - Petición en 3 Clics
+
+Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+La entidad "Causa" almacena la información principal de cada petición registrada por un ciudadano: qué se pide, por qué, y cuándo fue creada. Es el punto central alrededor del cual se organizan los apoyos.
+
+Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+
+La entidad "Apoyo" representa cada respaldo que un ciudadano da a una causa. El campo "causa_id" relaciona el apoyo con la causa correspondiente, permitiendo contar cuántas personas respaldan cada petición y en qué momento lo hicieron.
+
+Relación: una Causa puede tener muchos Apoyos (relación uno a muchos), lo que permite calcular el total de respaldos por causa y generar el documento PDF con esa información.

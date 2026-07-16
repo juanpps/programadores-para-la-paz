@@ -1,0 +1,7 @@
+Reflexión - Semana 12
+
+Durante el curso aprendí que la tecnología puede ser una herramienta poderosa para fortalecer la participación ciudadana cuando se diseña pensando en las necesidades reales de una comunidad. Sistemas simples, como "Petición en 3 Clics", muestran que no se necesita algo muy complejo para darle voz a las personas y facilitar que se organicen alrededor de una causa común.
+
+También entendí la importancia de proteger los datos personales: recopilar solo lo necesario evita riesgos innecesarios y genera más confianza en quienes usan la plataforma. Esto es especialmente relevante en comunidades donde la información sensible puede ser mal utilizada.
+
+Finalmente, comprendí el valor de la automatización (como n8n o Telegram) para mantener informada a la comunidad en tiempo real, sin necesidad de que alguien esté revisando el sistema manualmente. En conjunto, estas herramientas permiten construir soluciones tecnológicas cercanas, seguras y útiles para la organización comunitaria.
